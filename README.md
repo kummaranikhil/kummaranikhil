@@ -102,6 +102,19 @@ https://github.com/kummaranikhil/AI-Job-Scam-Detection
 
 ## 📫 Connect With Me
 
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kummaranikhil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kummaranikhil&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kummaranikhil&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 * GitHub: https://github.com/kummaranikhil
 
 ---
